@@ -6,5 +6,11 @@
   <packaging>pom</packaging>
   <modules>
   	<module>Eureka-7001</module>
+  	<module>MicroService-Mybatis</module>
+  	<module>MicroService-Zuul</module>
+  	<module>MicroService-hystrixDashBoard</module>
+  	<module>MicroSercive-Provider</module>
+  	<module>MicroService-Services</module>
+  	<module>MicroService-FeignClient</module>
   </modules>
 </project>
